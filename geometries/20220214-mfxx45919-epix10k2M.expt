@@ -1,0 +1,3954 @@
+{
+  "__id__": "ExperimentList",
+  "experiment": [
+    {
+      "__id__": "Experiment",
+      "identifier": "ba988c34-0a30-47a7-9a28-491b4de95a76",
+      "beam": 0,
+      "detector": 0,
+      "crystal": 0,
+      "imageset": 0
+    }
+  ],
+  "imageset": [
+    {
+      "__id__": "ImageSet",
+      "images": [
+        "/reg/data/ana16/mfx/mfxx45919/results/brewster/xpptut15/results/r0572/data.loc"
+      ],
+      "single_file_indices": [
+        33839
+      ],
+      "mask": null,
+      "gain": null,
+      "pedestal": null,
+      "dx": null,
+      "dy": null,
+      "params": {}
+    }
+  ],
+  "beam": [
+    {
+      "direction": [
+        -0.0,
+        -0.0,
+        1.0
+      ],
+      "wavelength": 1.1862634186478007,
+      "divergence": 0.0,
+      "sigma_divergence": 0.0,
+      "polarization_normal": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "polarization_fraction": 0.999,
+      "flux": 0.0,
+      "transmission": 1.0
+    }
+  ],
+  "detector": [
+    {
+      "panels": [
+        {
+          "name": "ARRAY_D0M0A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M0A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M0A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M0A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M1A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M1A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M1A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M1A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M2A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M2A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M2A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M2A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M3A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M3A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M3A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M3A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M4A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M4A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M4A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M4A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M5A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M5A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M5A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M5A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M6A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M6A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M6A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M6A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M7A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M7A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M7A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M7A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M8A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M8A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M8A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M8A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M9A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M9A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M9A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M9A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M10A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M10A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M10A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M10A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M11A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M11A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M11A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M11A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M12A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M12A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M12A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M12A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M13A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M13A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M13A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M13A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M14A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M14A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M14A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M14A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M15A0",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M15A1",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            17.7,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M15A2",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            -19.3,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        },
+        {
+          "name": "ARRAY_D0M15A3",
+          "type": "",
+          "fast_axis": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slow_axis": [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          "origin": [
+            0.2,
+            -0.2,
+            0.0
+          ],
+          "raw_image_offset": [
+            0,
+            0
+          ],
+          "image_size": [
+            192,
+            176
+          ],
+          "pixel_size": [
+            0.1,
+            0.1
+          ],
+          "trusted_range": [
+            -1.0,
+            2000000.0
+          ],
+          "thickness": 0.0,
+          "material": "",
+          "mu": 0.0,
+          "identifier": "",
+          "mask": [],
+          "gain": 10.456163659236857,
+          "pedestal": 0.0,
+          "px_mm_strategy": {
+            "type": "SimplePxMmStrategy"
+          }
+        }
+      ],
+      "hierarchy": {
+        "name": "D0",
+        "type": "",
+        "fast_axis": [
+          2.220446049250313e-16,
+          1.0,
+          0.0
+        ],
+        "slow_axis": [
+          -1.0,
+          2.220446049250313e-16,
+          0.0
+        ],
+        "origin": [
+          -0.2383886135597568,
+          1.19004329347159,
+          -103.24946681269944
+        ],
+        "raw_image_offset": [
+          0,
+          0
+        ],
+        "image_size": [
+          0,
+          0
+        ],
+        "pixel_size": [
+          0.0,
+          0.0
+        ],
+        "trusted_range": [
+          0.0,
+          0.0
+        ],
+        "thickness": 0.0,
+        "material": "",
+        "mu": 0.0,
+        "identifier": "",
+        "mask": [],
+        "gain": 1.0,
+        "pedestal": 0.0,
+        "px_mm_strategy": {
+          "type": "SimplePxMmStrategy"
+        },
+        "children": [
+          {
+            "name": "D0M0",
+            "type": "",
+            "fast_axis": [
+              0.0016245502508809295,
+              -0.9999967067973057,
+              -0.0019867639582855645
+            ],
+            "slow_axis": [
+              0.9999977556699398,
+              0.0016218436154243911,
+              0.0013631868436334565
+            ],
+            "origin": [
+              -59.241699629091606,
+              23.055554594889355,
+              -0.3058997442966245
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 0
+              },
+              {
+                "panel": 1
+              },
+              {
+                "panel": 2
+              },
+              {
+                "panel": 3
+              }
+            ]
+          },
+          {
+            "name": "D0M1",
+            "type": "",
+            "fast_axis": [
+              0.0023452867418538815,
+              -0.999996884487694,
+              0.0008547777513647699
+            ],
+            "slow_axis": [
+              0.9999887113686483,
+              0.002348798166610509,
+              0.004130409476428865
+            ],
+            "origin": [
+              -59.28158564505297,
+              63.56672544379406,
+              0.08140050470670701
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 4
+              },
+              {
+                "panel": 5
+              },
+              {
+                "panel": 6
+              },
+              {
+                "panel": 7
+              }
+            ]
+          },
+          {
+            "name": "D0M2",
+            "type": "",
+            "fast_axis": [
+              0.006985143547008413,
+              -0.9999747724267978,
+              0.001289294226156038
+            ],
+            "slow_axis": [
+              0.999975397319649,
+              0.00698430817050272,
+              -0.0006513023795514469
+            ],
+            "origin": [
+              -17.286220580891694,
+              23.473775837401956,
+              -0.21239648455483007
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 8
+              },
+              {
+                "panel": 9
+              },
+              {
+                "panel": 10
+              },
+              {
+                "panel": 11
+              }
+            ]
+          },
+          {
+            "name": "D0M3",
+            "type": "",
+            "fast_axis": [
+              0.003991612583581179,
+              -0.9999920285982608,
+              9.883783574850621e-05
+            ],
+            "slow_axis": [
+              0.9999916772771463,
+              0.0039916945667652585,
+              0.000843653320699568
+            ],
+            "origin": [
+              -17.582177590998437,
+              64.11277040757025,
+              -0.11430947572422667
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 12
+              },
+              {
+                "panel": 13
+              },
+              {
+                "panel": 14
+              },
+              {
+                "panel": 15
+              }
+            ]
+          },
+          {
+            "name": "D0M4",
+            "type": "",
+            "fast_axis": [
+              -0.999971424351254,
+              -0.007543338891926432,
+              -0.0004985170870279304
+            ],
+            "slow_axis": [
+              0.007542982789537951,
+              -0.9999712975477861,
+              0.0007123841897000879
+            ],
+            "origin": [
+              22.967972633413172,
+              59.33506830618713,
+              0.19597995020454562
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 16
+              },
+              {
+                "panel": 17
+              },
+              {
+                "panel": 18
+              },
+              {
+                "panel": 19
+              }
+            ]
+          },
+          {
+            "name": "D0M5",
+            "type": "",
+            "fast_axis": [
+              -0.9999836318855595,
+              -0.005721526436359838,
+              9.808366905868679e-06
+            ],
+            "slow_axis": [
+              0.005721521043599798,
+              -0.9999759854818152,
+              0.003910582644589936
+            ],
+            "origin": [
+              63.3932215235901,
+              59.45444840624996,
+              0.6004585202889956
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 20
+              },
+              {
+                "panel": 21
+              },
+              {
+                "panel": 22
+              },
+              {
+                "panel": 23
+              }
+            ]
+          },
+          {
+            "name": "D0M6",
+            "type": "",
+            "fast_axis": [
+              -0.9999618029643998,
+              -0.008738450935512114,
+              0.00017912965873800535
+            ],
+            "slow_axis": [
+              0.008738508921110085,
+              -0.9999617655177594,
+              0.0003255217987575056
+            ],
+            "origin": [
+              23.363517894540514,
+              17.489770299370317,
+              0.16198548529408185
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 24
+              },
+              {
+                "panel": 25
+              },
+              {
+                "panel": 26
+              },
+              {
+                "panel": 27
+              }
+            ]
+          },
+          {
+            "name": "D0M7",
+            "type": "",
+            "fast_axis": [
+              -0.9999675858144764,
+              -0.008001532704284787,
+              -0.0008959881416605463
+            ],
+            "slow_axis": [
+              0.008000326139536005,
+              -0.9999670960814888,
+              0.0013422131036510757
+            ],
+            "origin": [
+              63.81752839709487,
+              17.729651131314892,
+              0.45767930289289893
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 28
+              },
+              {
+                "panel": 29
+              },
+              {
+                "panel": 30
+              },
+              {
+                "panel": 31
+              }
+            ]
+          },
+          {
+            "name": "D0M8",
+            "type": "",
+            "fast_axis": [
+              -0.0024135062551836326,
+              0.9999970842424112,
+              8.058679900787877e-05
+            ],
+            "slow_axis": [
+              -0.9999969846868914,
+              -0.0024134694580202174,
+              -0.00045363234058794184
+            ],
+            "origin": [
+              59.164255375767205,
+              -22.921203554086674,
+              0.6522062680511453
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 32
+              },
+              {
+                "panel": 33
+              },
+              {
+                "panel": 34
+              },
+              {
+                "panel": 35
+              }
+            ]
+          },
+          {
+            "name": "D0M9",
+            "type": "",
+            "fast_axis": [
+              0.00029268214037685353,
+              0.9999943013806809,
+              -0.003363263791131754
+            ],
+            "slow_axis": [
+              -0.9999997344479193,
+              0.0002949251088919388,
+              0.0006664257431794082
+            ],
+            "origin": [
+              59.07180569707102,
+              -63.520549656692076,
+              1.140510359472927
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 36
+              },
+              {
+                "panel": 37
+              },
+              {
+                "panel": 38
+              },
+              {
+                "panel": 39
+              }
+            ]
+          },
+          {
+            "name": "D0M10",
+            "type": "",
+            "fast_axis": [
+              -0.006700771484848354,
+              0.9999662846595194,
+              0.004746494047719084
+            ],
+            "slow_axis": [
+              -0.9999768041021062,
+              -0.006694895122626639,
+              -0.0012528515614469364
+            ],
+            "origin": [
+              17.193804751256724,
+              -23.449714990788145,
+              0.11949455107971119
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 40
+              },
+              {
+                "panel": 41
+              },
+              {
+                "panel": 42
+              },
+              {
+                "panel": 43
+              }
+            ]
+          },
+          {
+            "name": "D0M11",
+            "type": "",
+            "fast_axis": [
+              -0.0036230061004551904,
+              0.9999934340639838,
+              -7.520450261433582e-05
+            ],
+            "slow_axis": [
+              -0.9999918391853052,
+              -0.0036228658669496586,
+              0.0017878494626221084
+            ],
+            "origin": [
+              17.473777094889876,
+              -63.78571464128282,
+              0.4639894066545338
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 44
+              },
+              {
+                "panel": 45
+              },
+              {
+                "panel": 46
+              },
+              {
+                "panel": 47
+              }
+            ]
+          },
+          {
+            "name": "D0M12",
+            "type": "",
+            "fast_axis": [
+              0.9999953510911526,
+              0.0015178494552311856,
+              0.0026446037725887392
+            ],
+            "slow_axis": [
+              -0.0015164744660593236,
+              0.9999987139879263,
+              -0.0005218502540921162
+            ],
+            "origin": [
+              -23.321177489889948,
+              -59.37279888290879,
+              0.1306013785607547
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 48
+              },
+              {
+                "panel": 49
+              },
+              {
+                "panel": 50
+              },
+              {
+                "panel": 51
+              }
+            ]
+          },
+          {
+            "name": "D0M13",
+            "type": "",
+            "fast_axis": [
+              0.9999975224546619,
+              0.0022164293238944315,
+              -0.00020621733749237595
+            ],
+            "slow_axis": [
+              -0.0022156936217608185,
+              0.9999914135294925,
+              0.00350193790093556
+            ],
+            "origin": [
+              -63.73500000000024,
+              -59.60200000000024,
+              0.08499999999999375
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 52
+              },
+              {
+                "panel": 53
+              },
+              {
+                "panel": 54
+              },
+              {
+                "panel": 55
+              }
+            ]
+          },
+          {
+            "name": "D0M14",
+            "type": "",
+            "fast_axis": [
+              0.9999852716523817,
+              0.005408085496121088,
+              0.0004572631400641702
+            ],
+            "slow_axis": [
+              -0.005408407679825889,
+              0.9999851250118196,
+              0.0007063154144016375
+            ],
+            "origin": [
+              -23.601430928873423,
+              -17.47708332977475,
+              -0.32771827541979803
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 56
+              },
+              {
+                "panel": 57
+              },
+              {
+                "panel": 58
+              },
+              {
+                "panel": 59
+              }
+            ]
+          },
+          {
+            "name": "D0M15",
+            "type": "",
+            "fast_axis": [
+              0.9999881152423842,
+              0.0048744772777379285,
+              -9.404920574232249e-05
+            ],
+            "slow_axis": [
+              -0.004874587723957325,
+              0.9999873843906352,
+              -0.0012122104180919482
+            ],
+            "origin": [
+              -63.9824589554286,
+              -17.573404851539493,
+              -0.22726189685344877
+            ],
+            "raw_image_offset": [
+              0,
+              0
+            ],
+            "image_size": [
+              0,
+              0
+            ],
+            "pixel_size": [
+              0.0,
+              0.0
+            ],
+            "trusted_range": [
+              0.0,
+              0.0
+            ],
+            "thickness": 0.0,
+            "material": "",
+            "mu": 0.0,
+            "identifier": "",
+            "mask": [],
+            "gain": 1.0,
+            "pedestal": 0.0,
+            "px_mm_strategy": {
+              "type": "SimplePxMmStrategy"
+            },
+            "children": [
+              {
+                "panel": 60
+              },
+              {
+                "panel": 61
+              },
+              {
+                "panel": 62
+              },
+              {
+                "panel": 63
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "goniometer": [],
+  "scan": [],
+  "crystal": [
+    {
+      "__id__": "crystal",
+      "real_space_a": [
+        -12.29096259836996,
+        -65.35342894215057,
+        -35.968558453094815
+      ],
+      "real_space_b": [
+        56.655613001373986,
+        45.06846748286483,
+        -21.791062100536546
+      ],
+      "real_space_c": [
+        46.52008154994219,
+        -35.222749654250265,
+        48.101757720676126
+      ],
+      "space_group_hall_symbol": " P 31 2\"",
+      "ML_half_mosaicity_deg": 0.07263904227506342,
+      "ML_domain_size_ang": 512.0649648724883
+    }
+  ],
+  "profile": [],
+  "scaling_model": []
+}
