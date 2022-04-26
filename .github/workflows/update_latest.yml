@@ -1,0 +1,41 @@
+name: "Update Latest"
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+    - 'README.md'
+    - '.gitignore'
+
+  pull_request:
+    branches: [main]
+    paths-ignore:
+    - 'README.md'
+    - '.gitignore'
+
+
+jobs:
+  update:
+
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check Out Repo
+        uses: actions/checkout@v2
+
+      - name: geometrie-dryrun
+        uses: ./geometries/
+        id: geometries-dryrun
+
+      - name: geometries-update
+        uses: ./geometries/
+        id: geometries-update
+        with:
+          command: |
+            for det in `ls | grep -v action.yml | awk -v FS="-" '{print $3}' | awk -v FS="." '{print $1}' | sort -u`; do latest=$(ls `ls *${det}* | awk -v FS="-" '{print $1}' | sort | tail -n 1`*); suffix=`ls $latest | awk -v FS="." '{print $2}'` ; echo "ln -s $latest ${det}_latest.${suffix}" ; done
+
+      - name: masks-update
+        uses: ./masks/
+        id: masks-update
+        with:
+          command: |
+            for det in `ls | grep -v action.yml | awk -v FS="-" '{print $3}' | awk -v FS="." '{print $1}' | sort -u`; do latest=$(ls `ls *${det}* | awk -v FS="-" '{print $1}' | sort | tail -n 1`*); suffix=`ls $latest | awk -v FS="." '{print $2}'` ; echo "ln -s $latest ${det}_latest.${suffix}" ; done
